@@ -1,5 +1,5 @@
 # Mutual-Funds-India
-A Power BI report to get a better understanding of the Mutual Fund Industry In India and also a fund picker page that makes the process of picking Mutual funds easier based on the data in the project
+A Power BI report to get a better understanding of the Mutual Fund Industry In India and also a fund picker page that makes the process of picking Mutual funds easier based on the data in the project. I made this as my Capstone Project.There's a ppt file attached too which was my project proposal.
 
 ## About Data 
 A comprehensive mutual fund dataset has been used to created these reports which is present on kaggle.
